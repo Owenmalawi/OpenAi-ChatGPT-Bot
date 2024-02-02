@@ -29,7 +29,7 @@ global.CAPTION = '*© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙾𝙿𝙴
 */
 var SESSION_ID = ''
 global.AI_PASSWORD = 'king-nima-gpt-bot'
-global.SESSION_ID = 'elisa_md@;;;UU13WZ6B#yHBf8jlDo03NOR6cw01ciHOfaaOaU5wEUEt1krkhHqw'
+global.SESSION_ID = 'elisa_md@;;;VNMlhTwI#Q30-na2IYSY3c5rcdhpgjAyck4Zk1Zpr-y5gLP3jO5o'
 
 /*
 🎲 𝗢𝗧𝗛𝗘𝗥 𝗦𝗘𝗧𝗜𝗡𝗚𝗦
